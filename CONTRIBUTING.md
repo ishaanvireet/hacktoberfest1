@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [IshaanviReet](https://github.com/ishaanvireet)
+
+- Place: Faridabad, Haryana, India
+- Bio: Second Year undergrad pursuing B.tech in Computer Engineering
+- GitHub: [IshaanviReet](https://github.com/ishaanvireet)
+
